@@ -3,16 +3,16 @@
 Cryptographically timestamped picks from a Kalshi motorsports edge scanner.
 Every signal is committed (and SSH-signed) at the moment it's generated — no retroactive edits.
 
-_Last updated: 2026-05-22 22:31 UTC_
+_Last updated: 2026-05-22 22:52 UTC_
 _Tracking period: 2026-05-22 → 2026-05-22_
 
 ## Performance
 
 | Metric | Value |
 |---|---|
-| Total signals issued | 99 |
+| Total signals issued | 100 |
 | Settled | 0 |
-| Pending | 99 |
+| Pending | 100 |
 | Wins / Losses / Pushes | 0 / 0 / 0 |
 | Hit rate | — |
 | ROI (net of vig, on flat stake) | — |
@@ -31,6 +31,7 @@ _Tracking period: 2026-05-22 → 2026-05-22_
 
 | Time (UTC) | Market | Side | Driver | Kalshi mid | Consensus | Edge | Status |
 |---|---|---|---|---|---|---|---|
+| 2026-05-22 22:52 | `KXF1RACEPODIUM-CANGP26-HAM` | BUY_NO | Lewis Hamilton | 0.49 | 0.0453 | +44.47pp | pending |
 | 2026-05-22 22:31 | `KXNASCARRACE-COC26-DEHA` | BUY_NO | Denny Hamlin | 0.185 | 0.1174 | +6.76pp | pending |
 | 2026-05-22 22:31 | `KXNASCARRACE-COC26-TYRE` | BUY_NO | Tyler Reddick | 0.145 | 0.0939 | +5.11pp | pending |
 | 2026-05-22 22:31 | `KXNASCARRACE-NOCEL26-COZI` | BUY_NO | Connor Zilisch | 0.165 | 0.0172 | +14.78pp | pending |
@@ -50,7 +51,6 @@ _Tracking period: 2026-05-22 → 2026-05-22_
 | 2026-05-22 22:00 | `KXF1RACEPODIUM-CANGP26-LEC` | BUY_NO | Charles Leclerc | 0.2 | 0.0642 | +13.58pp | pending |
 | 2026-05-22 22:00 | `KXF1RACEPODIUM-CANGP26-NOR` | BUY_NO | Lando Norris | 0.475 | 0.1926 | +28.24pp | pending |
 | 2026-05-22 22:00 | `KXF1RACEPODIUM-CANGP26-PIA` | BUY_NO | Oscar Piastri | 0.39 | 0.0856 | +30.44pp | pending |
-| 2026-05-22 22:00 | `KXF1RACEPODIUM-CANGP26-VER` | BUY_NO | Max Verstappen | 0.23 | 0.1284 | +10.16pp | pending |
 
 ## How it works
 
