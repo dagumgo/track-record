@@ -3,16 +3,16 @@
 Cryptographically timestamped picks from a Kalshi motorsports edge scanner.
 Every signal is committed (and SSH-signed) at the moment it's generated — no retroactive edits.
 
-_Last updated: 2026-05-22 23:03 UTC_
+_Last updated: 2026-05-22 23:44 UTC_
 _Tracking period: 2026-05-22 → 2026-05-22_
 
 ## Performance
 
 | Metric | Value |
 |---|---|
-| Total signals issued | 112 |
+| Total signals issued | 115 |
 | Settled | 0 |
-| Pending | 112 |
+| Pending | 115 |
 | Wins / Losses / Pushes | 0 / 0 / 0 |
 | Hit rate | — |
 | ROI (net of vig, on flat stake) | — |
@@ -31,6 +31,9 @@ _Tracking period: 2026-05-22 → 2026-05-22_
 
 | Time (UTC) | Market | Side | Driver | Kalshi mid | Consensus | Edge | Status |
 |---|---|---|---|---|---|---|---|
+| 2026-05-22 23:44 | `KXNASCARRACE-NOCEL26-COZI` | BUY_NO | Connor Zilisch | 0.085 | 0.0172 | +6.78pp | pending |
+| 2026-05-22 23:44 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.13 | 0.0243 | +10.57pp | pending |
+| 2026-05-22 23:44 | `KXF1RACEPODIUM-CANGP26-LEC` | BUY_NO | Charles Leclerc | 0.12 | 0.0642 | +5.58pp | pending |
 | 2026-05-22 23:03 | `KXNASCARRACE-COC26-DEHA` | BUY_NO | Denny Hamlin | 0.185 | 0.1174 | +6.76pp | pending |
 | 2026-05-22 23:03 | `KXNASCARRACE-COC26-TYRE` | BUY_NO | Tyler Reddick | 0.145 | 0.0939 | +5.11pp | pending |
 | 2026-05-22 23:03 | `KXNASCARRACE-CHA26-COZI` | BUY_NO | Connor Zilisch | 0.195 | 0.0172 | +17.78pp | pending |
@@ -48,9 +51,6 @@ _Tracking period: 2026-05-22 → 2026-05-22_
 | 2026-05-22 22:31 | `KXNASCARRACE-COC26-TYRE` | BUY_NO | Tyler Reddick | 0.145 | 0.0939 | +5.11pp | pending |
 | 2026-05-22 22:31 | `KXNASCARRACE-NOCEL26-COZI` | BUY_NO | Connor Zilisch | 0.165 | 0.0172 | +14.78pp | pending |
 | 2026-05-22 22:31 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.155 | 0.0243 | +13.07pp | pending |
-| 2026-05-22 22:31 | `KXF1RACEPODIUM-CANGP26-LEC` | BUY_NO | Charles Leclerc | 0.16 | 0.0642 | +9.58pp | pending |
-| 2026-05-22 22:31 | `KXF1RACEPODIUM-CANGP26-NOR` | BUY_NO | Lando Norris | 0.475 | 0.1926 | +28.24pp | pending |
-| 2026-05-22 22:31 | `KXF1RACEPODIUM-CANGP26-PIA` | BUY_NO | Oscar Piastri | 0.39 | 0.0856 | +30.44pp | pending |
 
 ## How it works
 
