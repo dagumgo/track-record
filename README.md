@@ -3,16 +3,16 @@
 Cryptographically timestamped picks from a Kalshi motorsports edge scanner.
 Every signal is committed (and SSH-signed) at the moment it's generated — no retroactive edits.
 
-_Last updated: 2026-05-23 14:36 UTC_
+_Last updated: 2026-05-23 16:00 UTC_
 _Tracking period: 2026-05-22 → 2026-05-23_
 
 ## Performance
 
 | Metric | Value |
 |---|---|
-| Total signals issued | 142 |
+| Total signals issued | 147 |
 | Settled | 0 |
-| Pending | 142 |
+| Pending | 147 |
 | Wins / Losses / Pushes | 0 / 0 / 0 |
 | Hit rate | — |
 | ROI (net of vig, on flat stake) | — |
@@ -31,6 +31,11 @@ _Tracking period: 2026-05-22 → 2026-05-23_
 
 | Time (UTC) | Market | Side | Driver | Kalshi mid | Consensus | Edge | Status |
 |---|---|---|---|---|---|---|---|
+| 2026-05-23 16:00 | `KXF1RACEPODIUM-CANGP26-ANT` | BUY_NO | Andrea Kimi Antonelli | 0.795 | 0.2054 | +58.96pp | pending |
+| 2026-05-23 16:00 | `KXF1RACEPODIUM-CANGP26-HAM` | BUY_NO | Lewis Hamilton | 0.305 | 0.0453 | +25.97pp | pending |
+| 2026-05-23 16:00 | `KXF1RACEPODIUM-CANGP26-NOR` | BUY_NO | Lando Norris | 0.46 | 0.1926 | +26.74pp | pending |
+| 2026-05-23 16:00 | `KXF1RACEPODIUM-CANGP26-PIA` | BUY_NO | Oscar Piastri | 0.37 | 0.0856 | +28.44pp | pending |
+| 2026-05-23 16:00 | `KXF1RACEPODIUM-CANGP26-RUS` | BUY_NO | George Russell | 0.735 | 0.2054 | +52.96pp | pending |
 | 2026-05-23 14:36 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.14 | 0.0242 | +11.58pp | pending |
 | 2026-05-23 14:05 | `KXNASCARRACE-CHA26-COZI` | BUY_NO | Connor Zilisch | 0.19 | 0.0171 | +17.29pp | pending |
 | 2026-05-23 14:05 | `KXNASCARRACE-NOCEL26-COZI` | BUY_NO | Connor Zilisch | 0.1 | 0.0171 | +8.29pp | pending |
@@ -46,11 +51,6 @@ _Tracking period: 2026-05-22 → 2026-05-23_
 | 2026-05-23 02:50 | `KXNASCARRACE-CHA26-COZI` | BUY_NO | Connor Zilisch | 0.25 | 0.0172 | +23.28pp | pending |
 | 2026-05-23 02:20 | `KXNASCARRACE-CHA26-COZI` | BUY_NO | Connor Zilisch | 0.28 | 0.0172 | +26.28pp | pending |
 | 2026-05-23 01:38 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.185 | 0.0243 | +16.07pp | pending |
-| 2026-05-23 00:58 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.145 | 0.0243 | +12.07pp | pending |
-| 2026-05-23 00:58 | `KXF1RACEPODIUM-CANGP26-ANT` | BUY_NO | Andrea Kimi Antonelli | 0.605 | 0.2054 | +39.96pp | pending |
-| 2026-05-23 00:58 | `KXF1RACEPODIUM-CANGP26-HAM` | BUY_NO | Lewis Hamilton | 0.52 | 0.0453 | +47.47pp | pending |
-| 2026-05-23 00:47 | `KXNASCARRACE-CHA26-COZI` | BUY_NO | Connor Zilisch | 0.245 | 0.0172 | +22.78pp | pending |
-| 2026-05-23 00:47 | `KXF1RACEPODIUM-CANGP26-ANT` | BUY_NO | Andrea Kimi Antonelli | 0.535 | 0.2054 | +32.96pp | pending |
 
 ## How it works
 
