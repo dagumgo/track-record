@@ -3,16 +3,16 @@
 Cryptographically timestamped picks from a Kalshi motorsports edge scanner.
 Every signal is committed (and SSH-signed) at the moment it's generated — no retroactive edits.
 
-_Last updated: 2026-05-23 16:41 UTC_
+_Last updated: 2026-05-23 17:02 UTC_
 _Tracking period: 2026-05-22 → 2026-05-23_
 
 ## Performance
 
 | Metric | Value |
 |---|---|
-| Total signals issued | 158 |
+| Total signals issued | 161 |
 | Settled | 0 |
-| Pending | 158 |
+| Pending | 161 |
 | Wins / Losses / Pushes | 0 / 0 / 0 |
 | Hit rate | — |
 | ROI (net of vig, on flat stake) | — |
@@ -31,6 +31,9 @@ _Tracking period: 2026-05-22 → 2026-05-23_
 
 | Time (UTC) | Market | Side | Driver | Kalshi mid | Consensus | Edge | Status |
 |---|---|---|---|---|---|---|---|
+| 2026-05-23 17:02 | `KXF1RACEPODIUM-CANGP26-ANT` | BUY_NO | Andrea Kimi Antonelli | 0.81 | 0.2054 | +60.46pp | pending |
+| 2026-05-23 17:02 | `KXF1RACEPODIUM-CANGP26-PIA` | BUY_NO | Oscar Piastri | 0.35 | 0.0856 | +26.44pp | pending |
+| 2026-05-23 17:02 | `KXF1RACEPODIUM-CANGP26-VER` | BUY_NO | Max Verstappen | 0.24 | 0.1284 | +11.16pp | pending |
 | 2026-05-23 16:41 | `KXF1RACEPODIUM-CANGP26-PIA` | BUY_NO | Oscar Piastri | 0.475 | 0.0856 | +38.94pp | pending |
 | 2026-05-23 16:41 | `KXF1RACEPODIUM-CANGP26-RUS` | BUY_NO | George Russell | 0.465 | 0.2054 | +25.96pp | pending |
 | 2026-05-23 16:30 | `KXNASCARRACE-CHA26-ROCH` | BUY_NO | Ross Chastain | 0.125 | 0.0241 | +10.09pp | pending |
@@ -48,9 +51,6 @@ _Tracking period: 2026-05-22 → 2026-05-23_
 | 2026-05-23 16:00 | `KXF1RACEPODIUM-CANGP26-PIA` | BUY_NO | Oscar Piastri | 0.37 | 0.0856 | +28.44pp | pending |
 | 2026-05-23 16:00 | `KXF1RACEPODIUM-CANGP26-RUS` | BUY_NO | George Russell | 0.735 | 0.2054 | +52.96pp | pending |
 | 2026-05-23 14:36 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.14 | 0.0242 | +11.58pp | pending |
-| 2026-05-23 14:05 | `KXNASCARRACE-CHA26-COZI` | BUY_NO | Connor Zilisch | 0.19 | 0.0171 | +17.29pp | pending |
-| 2026-05-23 14:05 | `KXNASCARRACE-NOCEL26-COZI` | BUY_NO | Connor Zilisch | 0.1 | 0.0171 | +8.29pp | pending |
-| 2026-05-23 14:05 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.115 | 0.0242 | +9.08pp | pending |
 
 ## How it works
 
