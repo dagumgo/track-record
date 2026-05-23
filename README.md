@@ -3,16 +3,16 @@
 Cryptographically timestamped picks from a Kalshi motorsports edge scanner.
 Every signal is committed (and SSH-signed) at the moment it's generated — no retroactive edits.
 
-_Last updated: 2026-05-23 03:21 UTC_
+_Last updated: 2026-05-23 03:32 UTC_
 _Tracking period: 2026-05-22 → 2026-05-23_
 
 ## Performance
 
 | Metric | Value |
 |---|---|
-| Total signals issued | 133 |
+| Total signals issued | 134 |
 | Settled | 0 |
-| Pending | 133 |
+| Pending | 134 |
 | Wins / Losses / Pushes | 0 / 0 / 0 |
 | Hit rate | — |
 | ROI (net of vig, on flat stake) | — |
@@ -31,6 +31,7 @@ _Tracking period: 2026-05-22 → 2026-05-23_
 
 | Time (UTC) | Market | Side | Driver | Kalshi mid | Consensus | Edge | Status |
 |---|---|---|---|---|---|---|---|
+| 2026-05-23 03:32 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.18 | 0.0243 | +15.57pp | pending |
 | 2026-05-23 03:21 | `KXNASCARRACE-CHA26-COZI` | BUY_NO | Connor Zilisch | 0.22 | 0.0172 | +20.28pp | pending |
 | 2026-05-23 03:11 | `KXNASCARRACE-CHA26-ROCH` | BUY_NO | Ross Chastain | 0.16 | 0.0243 | +13.57pp | pending |
 | 2026-05-23 03:11 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.215 | 0.0243 | +19.07pp | pending |
@@ -50,7 +51,6 @@ _Tracking period: 2026-05-22 → 2026-05-23_
 | 2026-05-22 23:55 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.16 | 0.0243 | +13.57pp | pending |
 | 2026-05-22 23:55 | `KXF1RACEPODIUM-CANGP26-ANT` | BUY_NO | Andrea Kimi Antonelli | 0.57 | 0.2054 | +36.46pp | pending |
 | 2026-05-22 23:44 | `KXNASCARRACE-NOCEL26-COZI` | BUY_NO | Connor Zilisch | 0.085 | 0.0172 | +6.78pp | pending |
-| 2026-05-22 23:44 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.13 | 0.0243 | +10.57pp | pending |
 
 ## How it works
 
