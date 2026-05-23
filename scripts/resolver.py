@@ -207,6 +207,9 @@ def commit_outcomes(message: str = "") -> bool:
     if not message:
         message = f"Resolve outcomes {datetime.now(timezone.utc).isoformat()}"
     _run(["git", "commit", "-m", message])
+    push = _run(["git", "push", "origin", "main"], check=False)
+    if push.returncode != 0:
+        log.warning("git push failed: %s", push.stderr[:200])
     return True
 
 
