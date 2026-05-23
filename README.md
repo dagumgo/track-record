@@ -3,16 +3,16 @@
 Cryptographically timestamped picks from a Kalshi motorsports edge scanner.
 Every signal is committed (and SSH-signed) at the moment it's generated — no retroactive edits.
 
-_Last updated: 2026-05-23 14:05 UTC_
+_Last updated: 2026-05-23 14:36 UTC_
 _Tracking period: 2026-05-22 → 2026-05-23_
 
 ## Performance
 
 | Metric | Value |
 |---|---|
-| Total signals issued | 141 |
+| Total signals issued | 142 |
 | Settled | 0 |
-| Pending | 141 |
+| Pending | 142 |
 | Wins / Losses / Pushes | 0 / 0 / 0 |
 | Hit rate | — |
 | ROI (net of vig, on flat stake) | — |
@@ -31,6 +31,7 @@ _Tracking period: 2026-05-22 → 2026-05-23_
 
 | Time (UTC) | Market | Side | Driver | Kalshi mid | Consensus | Edge | Status |
 |---|---|---|---|---|---|---|---|
+| 2026-05-23 14:36 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.14 | 0.0242 | +11.58pp | pending |
 | 2026-05-23 14:05 | `KXNASCARRACE-CHA26-COZI` | BUY_NO | Connor Zilisch | 0.19 | 0.0171 | +17.29pp | pending |
 | 2026-05-23 14:05 | `KXNASCARRACE-NOCEL26-COZI` | BUY_NO | Connor Zilisch | 0.1 | 0.0171 | +8.29pp | pending |
 | 2026-05-23 14:05 | `KXNASCARRACE-NOCEL26-ROCH` | BUY_NO | Ross Chastain | 0.115 | 0.0242 | +9.08pp | pending |
@@ -50,7 +51,6 @@ _Tracking period: 2026-05-22 → 2026-05-23_
 | 2026-05-23 00:58 | `KXF1RACEPODIUM-CANGP26-HAM` | BUY_NO | Lewis Hamilton | 0.52 | 0.0453 | +47.47pp | pending |
 | 2026-05-23 00:47 | `KXNASCARRACE-CHA26-COZI` | BUY_NO | Connor Zilisch | 0.245 | 0.0172 | +22.78pp | pending |
 | 2026-05-23 00:47 | `KXF1RACEPODIUM-CANGP26-ANT` | BUY_NO | Andrea Kimi Antonelli | 0.535 | 0.2054 | +32.96pp | pending |
-| 2026-05-23 00:37 | `KXF1RACEPODIUM-CANGP26-LEC` | BUY_NO | Charles Leclerc | 0.165 | 0.0642 | +10.08pp | pending |
 
 ## How it works
 
