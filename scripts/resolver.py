@@ -140,7 +140,7 @@ def resolve_pending() -> dict:
             status = market_status.get(mkt, {})
             mkt_status = (status.get("status") or "").lower()
             result = (status.get("result") or "").lower() if status.get("result") else None
-            if mkt_status != "settled" or not result:
+            if mkt_status not in ("settled", "determined") or not result:
                 any_unsettled = True
                 continue
             # Compute outcome
