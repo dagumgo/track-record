@@ -1,0 +1,158 @@
+{
+  "event": "SPOIR26",
+  "sport": "NASCAR",
+  "settled_at": "2026-06-02T14:39:24.470247+00:00",
+  "race_winner": "Allgaier",
+  "signals": [
+    {
+      "signal_id": "2274414f-2cdd-49c9-8b01-c9f211c8c883",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.36,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 8.8889,
+      "finish_position": null
+    },
+    {
+      "signal_id": "1d9b911e-740d-4055-a575-f1f33adc783d",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.345,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 9.4928,
+      "finish_position": null
+    },
+    {
+      "signal_id": "ca89ae0f-3c4b-4b97-92f4-b5f19b3fa1dc",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.35,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 9.2857,
+      "finish_position": null
+    },
+    {
+      "signal_id": "645d1ea1-350a-4343-8224-13feaae4c03c",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.35,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 9.2857,
+      "finish_position": null
+    },
+    {
+      "signal_id": "5bb1318a-4519-4901-96f0-4b49fb3c6e52",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.375,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 8.3333,
+      "finish_position": null
+    },
+    {
+      "signal_id": "1a2e82d2-4e37-4305-9a29-81cc612ef69f",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.37,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 8.5135,
+      "finish_position": null
+    },
+    {
+      "signal_id": "3d7afde8-ff9d-45b0-9525-9c184a438175",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.37,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 8.5135,
+      "finish_position": null
+    },
+    {
+      "signal_id": "8c8a1458-5504-4a5b-83fa-91e268bf481b",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.38,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 8.1579,
+      "finish_position": null
+    },
+    {
+      "signal_id": "87a983b0-71e9-492a-882e-416af12bcdac",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.385,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 7.987,
+      "finish_position": null
+    },
+    {
+      "signal_id": "ca7af5af-0c14-414d-87e4-d39b624087bc",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.405,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 7.3457,
+      "finish_position": null
+    },
+    {
+      "signal_id": "61927f41-7b0d-4b59-a887-503bb9d5ae59",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.405,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 7.3457,
+      "finish_position": null
+    },
+    {
+      "signal_id": "bf9ccdf9-5c1c-4eff-827b-1a925ab818bf",
+      "driver": "Kyle Larson",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.35,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 9.2857,
+      "finish_position": null
+    }
+  ],
+  "summary": {
+    "total": 12,
+    "wins": 12,
+    "losses": 0,
+    "pnl_net": 102.4354
+  }
+}
