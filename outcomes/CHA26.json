@@ -1,0 +1,122 @@
+{
+  "event": "CHA26",
+  "sport": "NASCAR",
+  "settled_at": "2026-06-02T14:39:47.651490+00:00",
+  "race_winner": "Chastain",
+  "signals": [
+    {
+      "signal_id": "49388bdb-827f-485a-a726-00df3f8bed78",
+      "driver": "Connor Zilisch",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.195,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 20.641,
+      "finish_position": null
+    },
+    {
+      "signal_id": "d3e1676d-b3a2-4845-80c0-4a941f0058fb",
+      "driver": "Connor Zilisch",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.245,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 15.4082,
+      "finish_position": null
+    },
+    {
+      "signal_id": "45932960-37aa-4709-8a8d-a45d35dbddef",
+      "driver": "Connor Zilisch",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.28,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 12.8571,
+      "finish_position": null
+    },
+    {
+      "signal_id": "c0176a0d-ab07-443b-9249-4be1b42ff146",
+      "driver": "Connor Zilisch",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.25,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 15.0,
+      "finish_position": null
+    },
+    {
+      "signal_id": "1dbd542d-0874-4137-a739-c346d237e0e9",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.16,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "lost",
+      "pnl_net": -5.0,
+      "finish_position": 1
+    },
+    {
+      "signal_id": "5d455b0f-40bd-43a0-8cb5-551824e2eec8",
+      "driver": "Connor Zilisch",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.22,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 17.7273,
+      "finish_position": null
+    },
+    {
+      "signal_id": "2836031a-1fe1-4a25-9771-f1d2319ed5b6",
+      "driver": "Connor Zilisch",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.19,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 21.3158,
+      "finish_position": null
+    },
+    {
+      "signal_id": "7118a670-0aeb-4524-a016-9b85e6761246",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.125,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "lost",
+      "pnl_net": -5.0,
+      "finish_position": 1
+    },
+    {
+      "signal_id": "69c562af-7fe3-4d4a-b8d4-2dfd82faf09c",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.085,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "lost",
+      "pnl_net": -5.0,
+      "finish_position": 1
+    }
+  ],
+  "summary": {
+    "total": 9,
+    "wins": 6,
+    "losses": 3,
+    "pnl_net": 87.9494
+  }
+}

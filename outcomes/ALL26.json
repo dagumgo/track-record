@@ -1,0 +1,122 @@
+{
+  "event": "ALL26",
+  "sport": "NASCAR",
+  "settled_at": "2026-06-02T14:39:47.545647+00:00",
+  "race_winner": "Riggs",
+  "signals": [
+    {
+      "signal_id": "d6178c2d-91b9-4e6a-ae61-dff38e49ccc5",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.145,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 29.4828,
+      "finish_position": null
+    },
+    {
+      "signal_id": "daa223ef-f84e-4547-ba7b-a968a2860b68",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.14,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 30.7143,
+      "finish_position": null
+    },
+    {
+      "signal_id": "6ece8fc8-375b-40c4-a3db-011f224e7351",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.09,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 50.5556,
+      "finish_position": null
+    },
+    {
+      "signal_id": "a08df58a-a302-4d35-a9f9-c00cd664fa16",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.115,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 38.4783,
+      "finish_position": null
+    },
+    {
+      "signal_id": "fcc44532-9c96-4133-b03d-ade8c7e5ff02",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.085,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 53.8235,
+      "finish_position": null
+    },
+    {
+      "signal_id": "ee938eab-3a08-4524-8a5b-e2aa6e621b77",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.13,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 33.4615,
+      "finish_position": null
+    },
+    {
+      "signal_id": "60e45bf4-664c-443b-a8d0-b4368e9b61ac",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.08,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 57.5,
+      "finish_position": null
+    },
+    {
+      "signal_id": "782a58b8-ca0c-4925-ba19-60017a546620",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.11,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 40.4545,
+      "finish_position": null
+    },
+    {
+      "signal_id": "25a411f3-ec18-4602-a4ec-2c77d22c2996",
+      "driver": "Ross Chastain",
+      "side": "BUY_NO",
+      "source": "kalshi",
+      "mid": 0.155,
+      "stake": 5.0,
+      "settled": true,
+      "outcome": "won",
+      "pnl_net": 27.2581,
+      "finish_position": null
+    }
+  ],
+  "summary": {
+    "total": 9,
+    "wins": 9,
+    "losses": 0,
+    "pnl_net": 361.7286
+  }
+}
